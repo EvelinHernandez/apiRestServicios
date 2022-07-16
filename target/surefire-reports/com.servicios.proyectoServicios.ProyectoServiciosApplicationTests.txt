@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.servicios.proyectoServicios.ProyectoServiciosApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.674 s - in com.servicios.proyectoServicios.ProyectoServiciosApplicationTests
